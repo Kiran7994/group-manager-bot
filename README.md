@@ -206,6 +206,6 @@ through the `/stats` command, which is only available to the bot owner.
 # Credits
 https://github.com/jithumon/tgbot/graphs/contributors
 
-#edited
+# edited
 https://github.com/Kiran7994
 
