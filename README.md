@@ -9,12 +9,12 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   </a>
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-Rose-Bot-Model/stargazers">
+  <a href="https://github.com/Kiran7994/group-manager-bot/stargazers">
     <img src="https://img.shields.io/github/stars/MRK-YT/MT-Rose-Bot-Model?style=social">
 
   </a>
   
-  <a href="https://github.com/MRK-YT/MT-Rose-Bot-Model/fork">
+  <a href="https://github.com/Kiran7994/group-manager-bot/fork">
     <img src="https://img.shields.io/github/forks/MRK-YT/MT-Rose-Bot-Model?label=Fork&style=social">
 
   </a>  
