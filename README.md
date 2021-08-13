@@ -31,7 +31,7 @@ Kochu and I are moderating a [support group](https://t.me/Mo_Tech_Group), where 
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/Mo_Tech_YT) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/seriesworld0999) if you just want to stay in the loop about new features or
 announcements.
 
 Alternatively, [find me on telegram](https://t.me/Unlimtedmovie00 )! (Keep all support questions in the support chat, where more people can help you.)
