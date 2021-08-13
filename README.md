@@ -3,7 +3,7 @@
 
 [![our channel !](https://telegra.ph/file/8ee4aeba2c12e7f82f166.jpg)](https://t.me/unlimtedmovie00)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/mrk_yt)
-[![Join group !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://t.me/filmgallery0999)
+[![Join group !](https://telegra.ph/file/ebe90a42487ceb6c953a4.jpg)](https://t.me/filmgallery0999)
 
 <p align="center">
   <a href="https://www.python.org">
