@@ -1,4 +1,4 @@
-from telegram import Messages
+from telegram import Message
 from telegram.ext import BaseFilter
 
 from tg_bot import SUPPORT_USERS, SUDO_USERS
