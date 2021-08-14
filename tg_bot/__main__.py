@@ -21,7 +21,7 @@ PM_START_TEXT = """
 
 *ഹായ് {}, എന്റെ പേര് {}!*
 
-*ഞാൻ* [ഇദ്ദേഹം](tg://user?id={}) *നോക്കി നടത്തുന്ന ഒരു അടിപൊളി ഗ്രൂപ്പ്‌ മാനേജർ ബോട്ടാണ്.*
+*ഞാൻ* [ഇദ്ദേഹം](tg://user?id={}) *ഫിലിം ഗാലറി ഗ്രൂപ്പിൽ ഒരു ഗ്രൂപ്പ്‌ മാനേജർ ബോട്ടാണ്.*
 
 *എന്നെ നിർമ്മിച്ചിരിക്കുന്നത് python3 യിൽ python-telegram-bot ലൈബ്രറി ഉപയോഗിച്ചാണ്. ഞാൻ പൂർണ്ണമായിട്ടും ഓപ്പൺസോഴ്സ്ഡ് ആണ്. എന്റെ കോഡ് നിങ്ങൾക്ക് തായ കാണുവാൻ സാധിക്കും.*
 
@@ -31,6 +31,7 @@ PM_START_TEXT = """
 
 *ലഭ്യമായ കമാന്റുകളെപ്പറ്റി അറിയുവാൻ /help അമർത്തുക.*
 
+എന്നെ നിഞ്ഞാൾക്കും ഉപയോഗിക്കം 
 """
 
 HELP_STRINGS = """
@@ -151,7 +152,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="⭕️ Command Help ⭕️", url="https://t.me/{}?start=help".format(bot.username))],
-                     [InlineKeyboardButton(text="📢Updates", url="t.me/unlimtedmovie00"), InlineKeyboardButton(text="🔰join our group🔰", url="https://t.me/filmgallery0999"), InlineKeyboardButton(text="🤠Credits", url="https://github.com/jithumon/tgbot/graphs/contributors")],
+                     [InlineKeyboardButton(text="📢join channel", url="t.me/unlimtedmovie00"), InlineKeyboardButton(text="🔰join our group🔰", url="https://t.me/filmgallery0999"), InlineKeyboardButton(text="💥our group💥", url="https://github.com/jithumon/tgbot/graphs/contributors")],
                      [InlineKeyboardButton(text="➕ Add me to your group ➕", url="t.me/{}?startgroup=true".format(bot.username)) ]]))
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ ജിവൻ ഉണ്ട്...")
