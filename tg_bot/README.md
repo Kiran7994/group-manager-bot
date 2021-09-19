@@ -1,4 +1,4 @@
-# MRK YT
+# [HECTOR](https://t.me/uniunioo)
 
 <img src="https://telegra.ph/file/8ee4aeba2c12e7f82f166.jpg" width="150" height="150"><br>
 
